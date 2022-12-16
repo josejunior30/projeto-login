@@ -1,0 +1,29 @@
+@charset "UTF8";
+
+/* paleta de cores :
+verde : #49a09d
+lilas #5f2c822 */
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+main{
+    background-color: #5f2c82;
+}
+section#login {
+    background-position: center;
+}
+div#imagem img{
+   width: 60vw;
+   height: 40vh;
+   
+   
+
+}
+div#formulario{
+    background-color: white;
+    width: 60vw;
+    
+    
+}
